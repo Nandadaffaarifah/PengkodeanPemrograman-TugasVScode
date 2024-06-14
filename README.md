@@ -32,11 +32,32 @@
 
 **4. Apakah ada korelasi antara jenis kelamin pembeli dan jenis barang yang dibeli?**
 
-**Tahapan Analisis:**
+**Tahapan Analisis Data:**
 
-**1. Pengumpulan Data:**
-**Mengumpulkan data dari sistem penjualan perusahaan, termasuk faktur, jenis kelamin, jenis barang, dan jumlah pembelian.
-Menyimpan data dalam format yang dapat diakses dan dianalisis, seperti file**
+**1. Pengumpulan data dengan mengimpor pustaka yang diperlukan dan membaca data menggunakan file CSV.**
+
+**2. Data cleaning dengan membersihkan data dari nilai yang hilang atau tidak valid.**
+
+**3. Mentransformasi data sesuai kebutuhan analis.**
+
+**4. Melakukan Exploratory Data Analysis (EDA) untuk memahami karakteristik data.**
+
+**5. Membuat model prediksi penjualan berdasarkan data historis.**
+
+**6. Melakukan validasi model dan lakukan tuning parameter untuk meningkatkan akurasi.**
+
+**7. Menginterpretasikan hasil model dalam bentuk visualisasi diagram.**
+
+**Hasil Visualisasi Analisis Data:**
+
+**Diagram Lingkaran**
+![diagram_lingkaran](https://github.com/Nandadaffaarifah/PengkodeanPemrograman-TugasVScode/assets/152130171/de0ba687-1f85-449d-9a08-d29420384ad2)
+
+**Diagram Garis**
+![diagram_garis](https://github.com/Nandadaffaarifah/PengkodeanPemrograman-TugasVScode/assets/152130171/d036e769-5609-4287-899d-34a0d89c501b)
+
+**Diagram Titik**
+![diagram_titik](https://github.com/Nandadaffaarifah/PengkodeanPemrograman-TugasVScode/assets/152130171/f1dfdd5d-f4dc-47c1-adf4-e34adb9cdf12)
 
 
 
