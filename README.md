@@ -6,7 +6,7 @@
 
 **Kelas: S1 AKUNTANSI-E**
 
-**Deskripsi Soal**
+**Deskripsi Soal:**
 **Anda adalah seorang analis data di sebuah perusahaan ritel yang menjual berbagai macam barang. Perusahaan ini ingin meningkatkan penjualan mereka dengan memahami pola pembelian pelanggan.**
 
 **Tugas Anda:**
