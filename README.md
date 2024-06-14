@@ -10,15 +10,23 @@
 **Anda diminta untuk menganalisis data penjualan mereka untuk mendapatkan wawasan yang berguna.**
 
 **Data yang Tersedia:**
+
 **1. Faktur Penjualan: Setiap transaksi penjualan memiliki nomor faktur unik.**
+
 **2. Jenis Kelamin Pelanggan: Data jenis kelamin pelanggan yang melakukan pembelian.**
+
 **3. Jenis Barang: Jenis barang yang dibeli oleh pelanggan.**
+
 **4. Jumlah Pembelian: Jumlah barang yang dibeli dalam setiap transaksi.**
 
 **Pertanyaan Analisis:**
+
 **1. Bagaimana pembagian jenis kelamin pembeli?**
+
 **2. Apa jenis barang yang paling laris?**
+
 **3. Bagaimana pola penjualan dari waktu ke waktu?**
+
 **4. Apakah ada korelasi antara jenis kelamin pembeli dan jenis barang yang dibeli?**
 
 **Tahapan Analisis:**
